@@ -1,2 +1,3 @@
-# pb-zepetto
-PointBlank Zepetto Valid Login Checker
+# PointBlank Zepetto Valid Login Checker
+
+$ php pb.php
